@@ -21,9 +21,9 @@ Source: http://flavia.sourceforge.net/
 
 
 <u><h4>Metrics</h4></u>
-<b>Loss</b><br>
+<b>Loss</b>:
 Sparse Categorical Cross-Enrtropy<br>
-<b>Accuracy</b><br>
+<b>Accuracy</b><:
 Mean accuracy rate on all predictions
 <br>
 <u><h4>Optimizer</h4></u>
